@@ -1,0 +1,43 @@
+<DesignerComponent>
+	<Header>
+		<Name>RangeSlider Component</Name>
+		<IName>Slider</IName>
+		<Description>RangeSlider Component</Description>
+		<Category>SELECTORS</Category>
+		<CatDescription>Selects</CatDescription>
+		<Type>PalleteEntry</Type>
+		<Version>1.0</Version>
+	</Header>
+	<Contents>
+		<Model>
+			<Property>htmlObject</Property>
+			<Property>listeners</Property>
+			<Property name="parameters">xActionArrayParameter</Property>
+			<Property>initialValues</Property>
+			<Property>minLimit</Property>
+			<Property>maxLimit</Property>
+			<Property>slminvr</Property>
+			<Property>slmaxvr</Property>
+			<Property>orientation</Property>
+			<Property>interval</Property>
+			<Property>swidth</Property>
+			<Property>sheight</Property>
+			<Property>postFetch</Property>
+			<Property>postFetch</Property>
+			<Property>executeAtStart</Property>
+			<Property>preExecution</Property>
+			<Property>postExecution</Property>
+			<Property>preChange</Property>
+			<Property>postChange</Property>
+			<Property>refreshPeriod</Property>
+			<Property>tooltip</Property>
+			<Property>extraOptions</Property>
+		</Model>
+		<Implementation>
+			<Code src="slider.js" />
+			<Styles>
+				<Style version="1.0" src="tooltip.css">Range Slider Tooltip</Style>
+			</Styles>
+		</Implementation>
+	</Contents>
+</DesignerComponent>

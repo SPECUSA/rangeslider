@@ -1,0 +1,152 @@
+<DesignerProperties>
+	<DesignerProperty>
+		<Header>
+			<Name>minLimit</Name>
+			<Parent>BaseProperty</Parent>
+			<DefaultValue>0</DefaultValue>
+			<Description>MinLimit</Description>
+			<Tooltip>MinLimit</Tooltip>
+			<InputType>Integer</InputType>
+			<OutputType>Number</OutputType>
+			<Order>90</Order>
+			<Advanced>false</Advanced>
+			<Version>1.0</Version>
+		</Header>
+	</DesignerProperty>
+	
+	<DesignerProperty>
+		<Header>
+			<Name>maxLimit</Name>
+			<Parent>BaseProperty</Parent>
+			<DefaultValue>100</DefaultValue>
+			<Description>MaxLimit</Description>
+			<Tooltip>MaxLimit</Tooltip>
+			<InputType>Integer</InputType>
+			<OutputType>Number</OutputType>
+			<Order>91</Order>
+			<Advanced>false</Advanced>
+			<Version>1.0</Version>
+		</Header>
+	</DesignerProperty>
+		
+	<DesignerProperty>
+		<Header>
+			<Name>orientation</Name>
+			<Parent>BaseProperty</Parent>
+			<DefaultValue>horizontal</DefaultValue>
+			<Description>Orientation</Description>
+			<Tooltip>Orientation</Tooltip>
+			<InputType>String</InputType>
+			<OutputType>String</OutputType>
+			<Order>92</Order>
+			<Advanced>false</Advanced>
+			<Version>1.0</Version>
+		</Header>
+	</DesignerProperty>	
+	
+	
+	
+	<DesignerProperty>
+		<Header>
+			<Name>interval</Name>
+			<Parent>BaseProperty</Parent>
+			<DefaultValue>1</DefaultValue>
+			<Description>Interval</Description>
+			<Tooltip>Interval</Tooltip>
+			<InputType>Integer</InputType>
+			<OutputType>Number</OutputType>
+			<Order>93</Order>
+			<Advanced>false</Advanced>
+			<Version>1.0</Version>
+		</Header>
+	</DesignerProperty>	
+	
+	<DesignerProperty>
+		<Header>
+			<Name>initialValues</Name>
+			<Parent>BaseProperty</Parent>
+			<DefaultValue>"[0,0]"</DefaultValue>
+			<Description>InitialValue</Description>
+			<Tooltip>Initial value of slider</Tooltip>
+			<InputType>Array</InputType>
+			<OutputType>Array</OutputType>
+			<Order>93</Order>
+			<Advanced>false</Advanced>
+			<Version>1.0</Version>
+		</Header>
+	</DesignerProperty>	
+
+ <DesignerProperty>
+ <Header>
+	<Name>sheight</Name>
+	<Parent>BaseProperty</Parent>
+	<DefaultValue>10</DefaultValue>
+	<Description>Height</Description>
+	<Tooltip>Element height, in pixels </Tooltip>
+	<InputType>Integer</InputType>
+	<OutputType>Number</OutputType>
+	<Order>94</Order>
+	<Version>1.0</Version>
+ </Header>
+</DesignerProperty>
+
+<DesignerProperty>
+<Header>
+	<Name>swidth</Name>
+	<Parent>BaseProperty</Parent>
+	<DefaultValue>500</DefaultValue>
+	<Description>Width</Description>
+	<Tooltip>Element width, in pixels </Tooltip>
+	<InputType>Integer</InputType>
+	<OutputType>Number</OutputType>
+	<Order>95</Order>
+	<Version>1.0</Version>
+</Header>
+</DesignerProperty>
+
+<DesignerProperty>
+		<Header>
+			<Name>slminvr</Name>
+			<Parent>BaseProperty</Parent>
+			<DefaultValue>SliderMin</DefaultValue>
+			<Description>MinVariableName</Description>
+			<Tooltip>MinVariableName</Tooltip>
+			<InputType>String</InputType>
+			<OutputType>String</OutputType>
+			<Order>96</Order>
+			<Advanced>false</Advanced>
+			<Version>1.0</Version>
+		</Header>
+	</DesignerProperty>	
+	
+	<DesignerProperty>
+		<Header>
+			<Name>slmaxvr</Name>
+			<Parent>BaseProperty</Parent>
+			<DefaultValue>SliderMax</DefaultValue>
+			<Description>MaxVariableName</Description>
+			<Tooltip>MaxVariableName</Tooltip>
+			<InputType>String</InputType>
+			<OutputType>String</OutputType>
+			<Order>97</Order>
+			<Advanced>false</Advanced>
+			<Version>1.0</Version>
+		</Header>
+	</DesignerProperty>	
+<!--
+<DesignerProperty>
+  <Header>
+    <Name>slideaction</Name>
+    <Parent>BaseProperty</Parent>
+    <DefaultValue>function slideAction(event,ui){}</DefaultValue>
+    <Description>slideAction</Description>
+    <Tooltip>A callback function that is called when the user changes slier value.</Tooltip>
+    <InputType>JavaScript</InputType>
+    <OutputType>Function</OutputType>
+    <Order>251</Order>
+    <Advanced>false</Advanced>
+    <Version>1.0</Version>
+  </Header>
+</DesignerProperty>
+-->
+</DesignerProperties>
