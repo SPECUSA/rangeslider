@@ -1,7 +1,7 @@
 RangeSlider Component
 
 
-Pentaho CDE is an advanced user tool for creating dashboards in the Pentaho BA server. CDE and the technology underneath (CDF, CDA and CCC) allows to develop and deploy dashboards in the Pentaho platform in a fast and effective way. It has many components which helps developers to create rich dashboards. To increase it's features we have developed a RangeSlider Component which is used to give minimum and maximum value  to other components as what we have in Jquery slider.
+Pentaho CDE is an advanced user tool for creating dashboards in the Pentaho BI server. CDE and the technology underneath (CDF, CDA and CCC) allows to develop and deploy dashboards in the Pentaho platform in a fast and effective way. It has many components which helps developers to create rich dashboards. To increase it's features we have developed a RangeSlider Component which is used to give minimum and maximum value  to other components as what we have in Jquery slider.
         
 This component is very useful with charts because when we want to display value between some range then range slider is very helpful to provide range values instead of explicit input from the user.
 
