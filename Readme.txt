@@ -6,7 +6,7 @@ Pentaho CDE is an advanced user tool for creating dashboards in the Pentaho BI s
 This component is very useful with charts because when we want to display value between some range then range slider is very helpful to provide range values instead of explicit input from the user.
 
 
-How to use  to Deploy ?
+How to Deploy in Pentaho BI Server ?
 
 1. Download and extract RangeSlider.zip file
 2. Stop Pentaho BI Server if it is running.
