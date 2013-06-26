@@ -20,6 +20,8 @@ How to Deploy in Pentaho BI Server ?
 6. Create New CDE Dashboard File ->New->CDE Dashboard
 7. Goto Components->Selects Category, You will find RangeSlider Component.
 
-![View Screenshot](https://github.com/SPECUSA/rangeslider/blob/master/RangeSlider/s1.PNG)
+Screenshot
+
+![ScreenShot](https://raw.github.com/SPECUSA/rangeslider/master/RangeSlider/s1.PNG)
 
 For more details please read documentation.
